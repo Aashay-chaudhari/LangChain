@@ -1,9 +1,9 @@
 import streamlit as st
-from langchain_helper import generate_cover_letter
+from langchain_helper_cover_letter import generate_cover_letter
 import json
 
 
-st.title("Cover Letter Generator")
+st.title("Create Cover Letter")
 user_input = st.text_area("Enter the requirements of Job Description. ")
 
 

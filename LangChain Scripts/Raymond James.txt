@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to express my interest in the Lead AI/ML Engineer position at Raymond James. With my strong background in machine learning and experience in developing AI/ML solutions, I believe I am a great fit for this role.
+
+Throughout my career, I have gained extensive experience in developing and deploying ML solutions in public cloud environments such as AWS and Azure. I have a deep understanding of AI/ML infrastructure and MLOps, and I have successfully implemented solutions using AWS SageMaker. I am proficient in programming languages such as Python and Java, and I have hands-on experience with AWS AI/ML services including SageMaker, Comprehend, and Rekognition.
+
+In addition to my technical skills, I have a strong understanding of machine learning algorithms, model evaluation, and optimization techniques. I have experience with CI/CD tools and version control, and I am familiar with data engineering and ETL processes. I am a problem solver with excellent communication skills, and I thrive in fast-paced, dynamic environments.
+
+I believe that my skills and experience make me a strong candidate for the Lead AI/ML Engineer position at Raymond James. I am excited about the opportunity to work with various business teams, data scientists, and infrastructure teams to establish an AI/ML strategy and platform that will accelerate and standardize AI/ML development for the enterprise.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my skills and experience align with the needs of Raymond James.
+
+Sincerely,
+Aashay Chaudhari
